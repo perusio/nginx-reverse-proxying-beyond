@@ -9,7 +9,7 @@ This is a book for sysadmin, developers and devops that are
 confortable with LAMP or *BSD web stacks.
 
 Each chapter has several exercises. Some solved that are worked
-through in the book and some to be solved that have the solutions
+through in the book and some proposed. For the later we provide the  
 here.
 
 The repo is organized following the book structure, with directories
